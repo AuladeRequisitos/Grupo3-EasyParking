@@ -9,9 +9,11 @@ Link do Padlet:
 
 ***1.1.  Nome do Grupo***
 
+GRUPO 3 - SOFTWARE DE GERENCIAMENTO DE ESTACIONAMENTO
+
 Indicar o nome e github dos integrantes do grupo
 
-***1.2.  Nome do Sistema***
+KENJI KATO - GITHUB: @Kenji1-maker
 
 Indicar o nome do software proposto
 
