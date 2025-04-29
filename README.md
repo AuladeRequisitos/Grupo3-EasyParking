@@ -18,14 +18,15 @@ MAURICIO AQUINO - GITHUB: @aqu1no1
 LUÍS FERNANDO - GITHUB:   @luinsta
 
 
-Indicar o nome do software proposto
+Nome do sistema:
  - EasyParking
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela EasyParking, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do nosso sistema de gerenciamento de estacionamentos é gerenciar o uso de vagas de estacionamentos de forma eficiente, segura e automatizada. A plataforma permite que usuários cadastrem seus dados pessoais e veiculares, reservem vagas com antecedência e controlem o fluxo de entrada e saída dos veículos, proporcionando mais comodidade e agilidade. Além disso, o sistema realiza o monitoramento em tempo real da ocupação das vagas, utilizando sensores para detectar a presença de veículos, prevenir o uso indevido das vagas e garantir a correta utilização dos espaços disponíveis. Com essas funcionalidades integradas, o projeto contribui para a melhoria da gestão de estacionamentos, aumentando a segurança, reduzindo o tempo de busca por vagas e promovendo uma experiência mais fluida e organizada para os usuários.
+
 
 ***1.2.  Público Alvo***
 
