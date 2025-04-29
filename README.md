@@ -14,8 +14,12 @@ GRUPO 3 - SOFTWARE DE GERENCIAMENTO DE ESTACIONAMENTO
 Indicar o nome e github dos integrantes do grupo
 
 KENJI KATO - GITHUB: @Kenji1-maker
+MAURICIO AQUINO - GITHUB: @aqu1no1
+Luís Fernando - GITHUB:   luinsta
+
 
 Indicar o nome do software proposto
+ - EasyParking
 
 ***1.3.  Propósito do Sistema***
 
