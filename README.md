@@ -3,7 +3,9 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: https://padlet.com/mpinheiro16/kanban-requisitos-de-software-7dfmfb8ahzn9mcz3
+
+O projeto se encaixa no Objetivo 9: Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável e fomentar a inovação.
 
 ## 1. Introdução
 
@@ -12,10 +14,11 @@ Link do Padlet:
 GRUPO 3 - SOFTWARE DE GERENCIAMENTO DE ESTACIONAMENTO
 
 
-
 KENJI KATO - GITHUB: @Kenji1-maker
 MAURICIO AQUINO - GITHUB: @aqu1no1
-LUÍS FERNANDO - GITHUB:   @luinsta
+LUÍS FERNANDO - GITHUB: @luinsta
+MARIA FERNANDA - GITHUB: @mariaferleal
+GIOVANA SENA - GITHUB: @giovanaxs
 
 
 Nome do sistema:
@@ -30,7 +33,7 @@ O objetivo do nosso sistema de gerenciamento de estacionamentos é gerenciar o u
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes e demais partes interessadas que participarão do desenvolvimento do sistema. O público-alvo do sistema inclui motoristas que utilizam estacionamentos de alta rotatividade — como os localizados em shoppings, universidades, empresas e centros comerciais —, administradores que buscam um sistema moderno e eficiente para aprimorar a organização e segurança das vagas, bem como funcionários operacionais responsáveis pelo controle de entrada e saída e pela supervisão do uso das vagas.
 
 ***1.3. Descrição dos usuários***
 
