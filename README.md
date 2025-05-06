@@ -57,11 +57,16 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Júlia trabalha em uma grande empresa de tecnologia e precisa estar em seu local de trabalho às 8h, sem se atrasar nem perder tempo procurando vaga. Em um dia comum, ela chega à empresa por volta das 7h30, mas se depara com uma longa fila de carros na entrada, já que o controle de acesso é manual e lento.
+Após alguns minutos de espera, Júlia consegue entrar no estacionamento, mas começa a rodar pelas dependências da empresa em busca de uma vaga. Todas as vagas já estão ocupadas, e o sistema atual não oferece nenhuma informação em tempo real sobre a disponibilidade.
+Com o tempo apertado e sem alternativa, ela decide estacionar fora da empresa, em uma rua próxima, porém sem segurança. Júlia chega atrasada para o início do expediente e ainda fica preocupada com a segurança do seu veículo. Esse tipo de situação é frequente e afeta sua produtividade e tranquilidade logo no início do dia.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Júlia trabalha numa grande empresa de tecnologia, onde precisa estar 8h no seu trabalho, sem se atrasar nem perder tempo procurando vaga. 
+Na noite anterior ao expediente, ela acessa a plataforma EasyParking, visualiza o mapa com as vagas disponíveis e realiza a reserva de uma vaga próxima à entrada do prédio onde trabalha. Júlia preenche seus dados pessoais e do veículo, definindo o horário de uso da vaga das 7h30 às 18h.
+Na manhã seguinte, ao chegar à empresa por volta das 7h30, a cancela de entrada reconhece automaticamente a placa do seu veículo e libera a passagem sem necessidade de parar. Um painel digital orienta o caminho até a vaga reservada, que está sinalizada como “reservada” para garantir seu uso exclusivo.
+Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfrentar filas, chegando com tranquilidade ao seu setor, no horário correto e sem estresse.
 
 ## 2. Documentos gerais no repositório
 
