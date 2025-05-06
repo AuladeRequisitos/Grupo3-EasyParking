@@ -14,11 +14,11 @@ O projeto se encaixa no Objetivo 9: Construir infraestruturas resilientes, promo
 GRUPO 3 - SOFTWARE DE GERENCIAMENTO DE ESTACIONAMENTO
 
 
-KENJI KATO - GITHUB: @Kenji1-maker
-MAURICIO AQUINO - GITHUB: @aqu1no1
-LUÍS FERNANDO - GITHUB: @luinsta
-MARIA FERNANDA - GITHUB: @mariaferleal
-GIOVANA SENA - GITHUB: @giovanaxs
+*KENJI KATO - GITHUB: @Kenji1-maker
+*MAURICIO AQUINO - GITHUB: @aqu1no1
+*LUÍS FERNANDO - GITHUB: @luinsta
+*MARIA FERNANDA - GITHUB: @mariaferleal
+*GIOVANA SENA - GITHUB: @giovanaxs
 
 
 Nome do sistema:
