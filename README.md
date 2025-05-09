@@ -111,11 +111,17 @@ Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfre
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+## ✅ Requisitos Funcionais (RF)
+
+| Identificador | Descrição | Prioridade | Depende de |
+|---------------|-----------|------------|------------|
+| RF01 | O sistema deve permitir o cadastro de usuários com dados pessoais. | Alta | — |
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+| Identificador | Descrição | Prioridade | Depende de |
+|---------------|-----------|------------|------------|
+| RNF01 | O sistema deve estar disponível 99,5% do tempo. | Alta | — |
 
 ***2.3. Perguntas***
 
