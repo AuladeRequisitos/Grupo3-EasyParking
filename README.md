@@ -42,11 +42,10 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 ***Personas:***
 
 ## Persona 1
-![Activity (2)](https://github.com/user-attachments/assets/2c6fd6ac-d80f-4ef8-a9b0-701ec3f5a0e2)
+![Activity](https://github.com/user-attachments/assets/5d603e3c-9dec-4c7f-aaf4-dde3026f942d)
 
 ## Persona 2
-
-![Activity](https://github.com/user-attachments/assets/5d603e3c-9dec-4c7f-aaf4-dde3026f942d)
+![Activity (2)](https://github.com/user-attachments/assets/2c6fd6ac-d80f-4ef8-a9b0-701ec3f5a0e2)
 
 
 ***Análise da situação atual: antes da introdução de sua solução***
