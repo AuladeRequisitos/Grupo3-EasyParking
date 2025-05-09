@@ -116,6 +116,10 @@ Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfre
 | Identificador | Descrição | Prioridade | Depende de |
 |---------------|-----------|------------|------------|
 | RF01 | O sistema deve permitir o cadastro de usuários com dados pessoais. | Alta | — |
+| RF02 | O sistema deve permitir o registro de veículos (marca, modelo, tipo, placa e cor). | Alta | RF01 |
+| RF03 | O sistema deve gerar um código de identificação único para cada usuário. | Alta | RF01 |
+| RF04 | O sistema deve permitir a consulta em tempo real das vagas disponíveis. | Alta | RF01 |
+| RF05 | O sistema deve permitir a reserva de uma vaga específica. | Alta | RF04 |
 
 ***2.2. Requisitos Não Funcionais***
 
