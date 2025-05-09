@@ -46,14 +46,53 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 ***Análise da situação atual: antes da introdução de sua solução***
 
 *`1. O que as pessoas fazem?`*
+
+Antes do sistema, os clientes precisavam ir fisicamente a vários estacionamentos até encontrarem uma vaga disponível, o que demandava tempo e causava cansaço. O administrador controlava as informações manualmente.
+
 *`2. Quais os artefatos envolvidos?`*
+
+- Os clientes precisavam saber os preços, horários de funcionamento e localização do estacionamento.
+- O administrador precisava ter controle sobre horários de entrada/saída, placas dos veículos, RGs e outras informações dos clientes.
+
 *`3. O que elas precisam saber?`*
+
+
+- Um caderno ou ficha de papel, utilizado pelo administrador para anotar dados como horário de entrada/saída, número da placa e dados pessoais.
+
+- Comunicação verbal entre cliente e administrador.
+
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
 *`1. O que as pessoas fazem?`*
+
+Os clientes agora têm duas opções:
+
+1 - Reserva antecipada pelo sistema, cadastrando seus dados pessoais e veiculares.
+
+2 - Chegada presencial, consultando o administrador sobre a disponibilidade de vagas.
+
 *`2. Quais os artefatos envolvidos?`*
+
+Para usar o sistema, é necessário fazer login ou se cadastrar.
+
+- Em caso de chegada presencial sem reserva, o cliente precisa conversar com o administrador.
+
+- O funcionamento do sistema, como horários, preços e regras de uso.
+
 *`3. O que elas precisam saber?`*
+
+1- Software de gerenciamento de estacionamento, com:
+
+ - Interface web (para computadores e notebooks).
+
+ - Interface adaptada para dispositivos móveis.
+
+2- Computador para o administrador, usado para acompanhar reservas e monitorar a ocupação.
+
+3 - Documentos pessoais dos clientes, exigidos para cadastro e controle.
+
+
 
 ***Cenário: Antes***
 
