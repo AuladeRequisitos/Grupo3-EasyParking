@@ -111,7 +111,7 @@ Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfre
 
 ***2.1. Requisitos Funcionais***
 
-## ✅ Requisitos Funcionais (RF)
+## Requisitos Funcionais (RF)
 
 | Identificador | Descrição | Prioridade | Depende de |
 |---------------|-----------|------------|------------|
@@ -122,6 +122,8 @@ Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfre
 | RF05 | O sistema deve permitir a reserva de uma vaga específica. | Alta | RF04 |
 
 ***2.2. Requisitos Não Funcionais***
+
+## Requisitos Não Funcionais (RNF)  
 
 | Identificador | Descrição | Prioridade | Depende de |
 |---------------|-----------|------------|------------|
