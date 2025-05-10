@@ -125,6 +125,11 @@ Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfre
 | RF03 | O sistema deve gerar um código de identificação único para cada usuário. | Alta | RF01 |
 | RF04 | O sistema deve permitir a consulta em tempo real das vagas disponíveis. | Alta | RF01 |
 | RF05 | O sistema deve permitir a reserva de uma vaga específica. | Alta | RF04 |
+| RF06 | O sistema deve permitir o controle de entrada por meio do código de identificação. | Alta | RF03, RF05 |
+| RF07 | O sistema deve permitir o controle de saída utilizando o código de identificação e senha. | Alta  | RF06 |
+| RF08 | O sistema deve exibir o tempo de permanência do veículo na vaga. | Média | RF06 |
+| RF09 | O sistema deve calcular o valor da estadia com base no tempo registrado. | Alta | RF08 |
+| RF10 | O sistema deve alertar o porteiro se um veículo não autorizado ocupar uma vaga. | Média | RF06, RF05 |
 
 ***2.2. Requisitos Não Funcionais***
 
