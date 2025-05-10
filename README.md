@@ -141,7 +141,7 @@ Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfre
 | RNF02 | O sistema deve utilizar HTTPS para criptografar todos os dados. | Alta | — |
 | RNF03 | As respostas do sistema devem ser retornadas em até 2 segundos. | Média | RF04, RF05 |
 | RNF04 | O sistema deve ser compatível com navegadores modernos e dispositivos móveis | Alta | — |
-| RNF05 | O sistema deve suportar até 500 usuários simultâneos.| Alta | RF01–RF09 |
+| RNF05 | O sistema deve suportar até 500 usuários simultâneos.| Alta | RF01, RF09 |
 | RNF06 | A interface deve seguir padrões de acessibilidade (WCAG 2.1). | Média | — |
 | RNF07 | O sistema deve enviar confirmações de ações (reserva, entrada, saída) em até 5 segundos | Alta | RF05, RF06, RF07 |
 | RNF08 | O backup do banco de dados deve ser feito automaticamente a cada 24 horas. | Média | — |
