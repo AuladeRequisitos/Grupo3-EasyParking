@@ -112,6 +112,17 @@ Na noite anterior ao expediente, ela acessa a plataforma EasyParking, visualiza 
 Na manhã seguinte, ao chegar à empresa por volta das 7h30, a cancela de entrada reconhece automaticamente a placa do seu veículo e libera a passagem sem necessidade de parar. Um painel digital orienta o caminho até a vaga reservada, que está sinalizada como “reservada” para garantir seu uso exclusivo.
 Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfrentar filas, chegando com tranquilidade ao seu setor, no horário correto e sem estresse.
 
+
+**Cenário: Antes**
+
+Roberto é um senhor de 68 anos, aposentado, que costuma passear pelo centro da cidade durante a semana para resolver pendências e encontrar amigos. Em uma dessas saídas, ele decide ir ao centro resolver algumas coisas. Ao chegar lá, enfrenta dificuldades para encontrar uma vaga de estacionamento com acessibilidade. Após muito tempo procurando e sem sucesso, acaba deixando o carro longe do local desejado. O trajeto a pé é cansativo, o que o desanima. Ao final do dia, Roberto retorna para casa frustrado, sentindo-se menos independente e um pouco isolado por não conseguir realizar suas atividades com automonia.
+
+**Cenário: Depois**
+
+Roberto é um senhor de 68 anos, aposentado, que costuma passear pelo centro da cidade durante a semana para resolver pendências e encontrar amigos. Na noite anterior, com a ajuda de um familiar, ele acessa a plataforma EasyParking em seu celular e encontra vagas acessíveis próximas ao local que deseja visitar. Ele realiza a reserva das vagas, informando o horário estimado de uso e os dados do veículo. Na manhã seguinte, ao chegar ao centro, a cancela reconhece a placa do carro e libera sua entrada. Um painel direciona Roberto até a vaga reservada, sinalizada como acessível. Ele estaciona com segurança e tranquilidade, realiza suas tarefas sem pressa e ainda aproveita a tarde com os amigos.
+
+
+
 ## 2. Documentos gerais no repositório
 
 ***2.1. Requisitos Funcionais***
