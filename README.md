@@ -37,7 +37,11 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***1.3. Descrição dos usuários***
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+Os usuários finais do sistema EasyParking são motoristas que utilizam estacionamentos de alta rotatividade e buscam mais agilidade, segurança e praticidade na ocupação de vagas. Entre os perfis atendidos pelo sistema estão:
+ - Motoristas em geral, que enfrentam dificuldades recorrentes para encontrar vagas disponíveis, o que compromete seu tempo e produtividade diária.
+ - Pessoas com deficiência (PCDs), que frequentemente encontram vagas especiais ocupadas de forma indevida ou indisponíveis, prejudicando sua mobilidade.
+ - Administradores e funcionários operacionais, responsáveis pelo gerenciamento do estacionamento, controle de entrada e saída de veículos, e supervisão da ocupação das vagas.
+Esses usuários interagem com o sistema de maneiras distintas, conforme suas necessidades, utilizando recursos como reserva de vagas, visualização em tempo real da disponibilidade, e controle automatizado de acesso e uso.
 
 ***Personas:***
 
