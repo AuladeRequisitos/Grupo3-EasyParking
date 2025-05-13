@@ -41,6 +41,7 @@ Os usuários finais do sistema EasyParking são motoristas que utilizam estacion
  - Motoristas em geral, que enfrentam dificuldades recorrentes para encontrar vagas disponíveis, o que compromete seu tempo e produtividade diária.
  - Pessoas com deficiência (PCDs), que frequentemente encontram vagas especiais ocupadas de forma indevida ou indisponíveis, prejudicando sua mobilidade.
  - Administradores e funcionários operacionais, responsáveis pelo gerenciamento do estacionamento, controle de entrada e saída de veículos, e supervisão da ocupação das vagas.
+   
 Esses usuários interagem com o sistema de maneiras distintas, conforme suas necessidades, utilizando recursos como reserva de vagas, visualização em tempo real da disponibilidade, e controle automatizado de acesso e uso.
 
 ***Personas:***
