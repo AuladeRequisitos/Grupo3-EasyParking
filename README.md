@@ -52,6 +52,10 @@ Esses usuários interagem com o sistema de maneiras distintas, conforme suas nec
 ## Persona 2
 ![Activity (2)](https://github.com/user-attachments/assets/2c6fd6ac-d80f-4ef8-a9b0-701ec3f5a0e2)
 
+## Persona 3
+
+![Activity (3)](https://github.com/user-attachments/assets/921159e1-c816-4ced-8bc2-83631b7ccbac)
+
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
@@ -103,7 +107,7 @@ Para usar o sistema, é necessário fazer login ou se cadastrar.
 3 - Documentos pessoais dos clientes, exigidos para cadastro e controle.
 
 
-
+## Persona 1
 ***Cenário: Antes***
 
 Júlia trabalha em uma grande empresa de tecnologia e precisa estar em seu local de trabalho às 8h, sem se atrasar nem perder tempo procurando vaga. Em um dia comum, ela chega à empresa por volta das 7h30, mas se depara com uma longa fila de carros na entrada, já que o controle de acesso é manual e lento.
@@ -114,19 +118,34 @@ Com o tempo apertado e sem alternativa, ela decide estacionar fora da empresa, e
 
 Júlia trabalha numa grande empresa de tecnologia, onde precisa estar 8h no seu trabalho, sem se atrasar nem perder tempo procurando vaga. 
 Na noite anterior ao expediente, ela acessa a plataforma EasyParking, visualiza o mapa com as vagas disponíveis e realiza a reserva de uma vaga próxima à entrada do prédio onde trabalha. Júlia preenche seus dados pessoais e do veículo, definindo o horário de uso da vaga das 7h30 às 18h.
-Na manhã seguinte, ao chegar à empresa por volta das 7h30, a cancela de entrada reconhece automaticamente a placa do seu veículo e libera a passagem sem necessidade de parar. Um painel digital orienta o caminho até a vaga reservada, que está sinalizada como “reservada” para garantir seu uso exclusivo.
+Na manhã seguinte, ao chegar à empresa por volta das 7h30, a cancela de entrada reconhece automaticamente a placa do seu veículo e libera a passagem sem necessidade de parar. Pelo aplicativo, ela recebe instruções em tempo real com o caminho até a vaga reservada, que aparece destacada no mapa interativo e sinalizada como “reservada” para garantir seu uso exclusivo.
 Ela estaciona com rapidez e segurança, sem precisar procurar por vagas ou enfrentar filas, chegando com tranquilidade ao seu setor, no horário correto e sem estresse.
 
+## Persona 2
+***Cenário: Antes***
 
-**Cenário: Antes**
+Roberto é um senhor de 68 anos, aposentado, que costuma passear pelo centro da cidade durante a semana para resolver pendências e encontrar amigos. Em uma dessas saídas, ele decide ir ao centro resolver alguns compromissos. 
+Ao chegar lá, enfrenta dificuldades para encontrar uma vaga de estacionamento com acessibilidade. Após muito tempo procurando e sem sucesso, acaba deixando o carro longe do local desejado. 
+O trajeto a pé é cansativo, o que o desanima. Ao final do dia, Roberto retorna para casa frustrado, sentindo-se menos independente e um pouco isolado por não conseguir realizar suas atividades com automonia.
 
-Roberto é um senhor de 68 anos, aposentado, que costuma passear pelo centro da cidade durante a semana para resolver pendências e encontrar amigos. Em uma dessas saídas, ele decide ir ao centro resolver algumas coisas. Ao chegar lá, enfrenta dificuldades para encontrar uma vaga de estacionamento com acessibilidade. Após muito tempo procurando e sem sucesso, acaba deixando o carro longe do local desejado. O trajeto a pé é cansativo, o que o desanima. Ao final do dia, Roberto retorna para casa frustrado, sentindo-se menos independente e um pouco isolado por não conseguir realizar suas atividades com automonia.
+***Cenário: Depois***
 
-**Cenário: Depois**
+Roberto é um senhor de 68 anos, aposentado, que costuma passear pelo centro da cidade durante a semana para resolver pendências e encontrar amigos. Na noite anterior, com a ajuda de um familiar, ele acessa a plataforma EasyParking em seu celular e encontra vagas acessíveis próximas ao local que deseja visitar. Ele realiza a reserva das vagas, informando o horário estimado de uso e os dados do veículo. 
+Na manhã seguinte, ao chegar ao centro, a cancela reconhece a placa do carro e libera sua entrada. Pelo aplicativo, Roberto recebe orientações em tempo real sobre como chegar até a vaga que reservou, identificada no mapa interativo da plataforma. 
+Ele estaciona com segurança e tranquilidade, realiza suas tarefas sem pressa e ainda aproveita a tarde com os amigos.
 
-Roberto é um senhor de 68 anos, aposentado, que costuma passear pelo centro da cidade durante a semana para resolver pendências e encontrar amigos. Na noite anterior, com a ajuda de um familiar, ele acessa a plataforma EasyParking em seu celular e encontra vagas acessíveis próximas ao local que deseja visitar. Ele realiza a reserva das vagas, informando o horário estimado de uso e os dados do veículo. Na manhã seguinte, ao chegar ao centro, a cancela reconhece a placa do carro e libera sua entrada. Um painel direciona Roberto até a vaga reservada, sinalizada como acessível. Ele estaciona com segurança e tranquilidade, realiza suas tarefas sem pressa e ainda aproveita a tarde com os amigos.
+## Persona 3
+***Cenário: Antes***
 
+Diego é administrador e um dos fundadores de um estacionamento no centro da cidade, ele está sempre presente acompanhando tudo de perto. No entanto, nos horários de maior movimento, o estacionamento enche rapidamente, o que causa insatisfação nos clientes e aumenta a carga de trabalho dos funcionários. 
+Como o controle de acesso é feito manualmente, a entrada fica mais lenta e a organização das vagas mais difícil, o que exige mais colaboradores e aumenta os custos operacionais. 
+Durante o dia, Diego fica ocupado resolvendo problemas do dia a dia e tentando equilibrar a qualidade do serviço com os gastos, o que acaba dificultando o foco em melhorias e no crescimento do negócio.
 
+***Cenário: Depois***
+
+Diego é administrador e um dos fundadores de um estacionamento no centro da cidade, ele decidiu implementar a plataforma EasyParking para tornar seu negócio mais eficiente. Com essa solução, os clientes podem reservar suas vagas com antecedência pelo aplicativo, que também mostra em tempo real quais lugares estão disponíveis. 
+O controle de acesso agora é feito por leitura automática das placas, o que ajuda a evitar filas e acelera a entrada e saída dos veículos. Além disso o próprio aplicativo direciona os motoristas até a vaga reservada por meio de instruções simples na tela, melhorando a experiência deles e reduzindo a necessidade de tantos funcionários para organizar tudo internamente. 
+Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, aumentar a satisfação dos clientes e dedicar mais tempo para pensar em estratégias de crescimento.
 
 ## 2. Documentos gerais no repositório
 
