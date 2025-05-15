@@ -185,12 +185,12 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 ***2.3. Perguntas***
 
-1- Como você costuma procurar vagas de estacionamento atualmente?
-2- Com que frequência você enfrenta dificuldade para encontrar uma vaga disponível?
-3- Você já teve problemas com ocupação indevida de vagas especiais, como as destinadas a PCD's? Se sim, com que frequência? 
-4- Você consideraria reservar uma vaga com antecedência, caso essa funcionalidade estivesse disponível? Por que?
-5- Quais informações você gostaria de ver em tempo real sobre o estacionamento? 
-6- Feedback sobre a aplicação. Após ver tudo que foi feito, você aprova nossa aplicação?
+`1- Como você costuma procurar vagas de estacionamento atualmente?`  
+`2- Com que frequência você enfrenta dificuldade para encontrar uma vaga disponível?`  
+`3- Você já teve problemas com ocupação indevida de vagas especiais, como as destinadas a PCD's? Se sim, com que frequência?`  
+`4- Você consideraria reservar uma vaga com antecedência, caso essa funcionalidade estivesse disponível? Por que?`   
+`5- Quais informações você gostaria de ver em tempo real sobre o estacionamento? `  
+`6- Feedback sobre a aplicação. Após ver tudo que foi feito, você aprova nossa aplicação?`  
 
 ***2.4. Entrevista***
 
