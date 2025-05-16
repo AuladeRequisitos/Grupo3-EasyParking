@@ -175,6 +175,11 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 | RF08 | O sistema deve exibir o tempo de permanência do veículo na vaga. | Média | RF06 |
 | RF09 | O sistema deve calcular o valor da estadia com base no tempo registrado. | Alta | RF08 |
 | RF10 | O sistema deve alertar o porteiro se um veículo não autorizado ocupar uma vaga. | Média | RF06, RF05 |
+| RF11 | O sistema deve permitir que o usuário visualize imagens ao vivo da vaga onde seu veículo está estacionado. | Alta | RF06 |
+| RF12 | O sistema deve registrar a entrada e saída com data, hora e imagem capturada pela câmera. | Média | RF06 |
+| RF13 | O sistema deve permitir o envio de notificações em tempo real para o usuário (ex: entrada, saída, tempo restante). | Média | RF06, RF08 |
+| RF14 | O sistema deve gerar relatórios mensais de uso para os administradores. | Média | RF01, RF06 |
+| RF15 | O sistema deve permitir a recuperação de senha por e-mail cadastrado. | Alta | RF01 |
 
 ***2.2. Requisitos Não Funcionais***
 
@@ -192,6 +197,11 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 | RNF08 | O backup do banco de dados deve ser feito automaticamente a cada 24 horas. | Média | — |
 | RNF09 | O banco de dados deve ter replicação geográfica na nuvem.| Alta | RF01, RF02 |
 | RNF10 | A autenticação deve utilizar senhas criptografadas e políticas de segurança. | Alta | RF07 |
+| RNF11 | O sistema deve suportar transmissão de vídeo ao vivo com latência inferior a 3 segundos. | Alta | RF11 |
+| RNF12 | O tempo de carregamento inicial da aplicação não deve ultrapassar 3 segundos em conexões 4G. | Alta | — |
+| RNF13 | O sistema deve exibir mensagens de erro claras e responsivas em caso de falha de conexão ou ações inválidas. | Média | — |
+| RNF14 | 	O sistema deve ser capaz de restaurar o serviço automaticamente em até 1 minuto após falhas críticas. | Alta | 	RNF01 |
+| RNF15 | As imagens capturadas pelas câmeras devem ser armazenadas por no mínimo 7 dias em ambiente seguro. | Alta | RF12 |
 
 ***2.3. Perguntas***
 
