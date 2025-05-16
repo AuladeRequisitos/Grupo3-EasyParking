@@ -28,12 +28,22 @@ Nome do sistema:
 
 Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela EasyParking, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do nosso sistema de gerenciamento de estacionamentos é gerenciar o uso de vagas de estacionamentos de forma eficiente, segura e automatizada. A plataforma permite que usuários cadastrem seus dados pessoais e veiculares, reservem vagas com antecedência e controlem o fluxo de entrada e saída dos veículos, proporcionando mais comodidade e agilidade. Além disso, o sistema realiza o monitoramento em tempo real da ocupação das vagas, utilizando sensores para detectar a presença de veículos, prevenir o uso indevido das vagas e garantir a correta utilização dos espaços disponíveis. Com essas funcionalidades integradas, o projeto contribui para a melhoria da gestão de estacionamentos, aumentando a segurança, reduzindo o tempo de busca por vagas e promovendo uma experiência mais fluida e organizada para os usuários.
+O objetivo do nosso sistema de gerenciamento de estacionamentos é gerenciar o uso de vagas de forma eficiente, segura e automatizada. A plataforma permite que usuários cadastrem seus dados pessoais e veiculares, reservem vagas com antecedência e controlem o fluxo de entrada e saída dos veículos, proporcionando mais comodidade e agilidade.
+
+Nosso aplicativo é voltado para estacionamentos modernos que contam com cancelas automáticas, sensores de vagas e câmeras de vigilância. Ele foi desenvolvido para oferecer mais praticidade, segurança e eficiência tanto para os gestores quanto para os usuários do estacionamento. Através da integração com sensores, o app permite o monitoramento em tempo real da ocupação das vagas, facilitando a organização e otimizando o uso do espaço. A cancela automatizada pode ser controlada diretamente pelo sistema, permitindo a entrada e saída de veículos de forma rápida e segura, sem a necessidade de intervenção manual. Além disso, as câmeras de segurança integradas ao sistema garantem maior controle e vigilância, registrando toda a movimentação no local e contribuindo para a proteção de veículos e pessoas.
+
+Com essas funcionalidades integradas, o projeto contribui para a melhoria da gestão de estacionamentos, aumentando a segurança, reduzindo o tempo de busca por vagas e promovendo uma experiência mais fluida e organizada para os usuários.
 
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes e demais partes interessadas que participarão do desenvolvimento do sistema. O público-alvo do sistema inclui motoristas que utilizam estacionamentos de alta rotatividade — como os localizados em shoppings, universidades, empresas e centros comerciais —, administradores que buscam um sistema moderno e eficiente para aprimorar a organização e segurança das vagas, bem como funcionários operacionais responsáveis pelo controle de entrada e saída e pela supervisão do uso das vagas.
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes e demais partes interessadas que participarão do desenvolvimento do sistema.
+
+O público-alvo do sistema é dividido em dois grupos principais:
+
+- Motoristas: usuários que utilizam estacionamentos de alta rotatividade, como os localizados em shoppings, universidades, empresas e centros comerciais. Estes buscam praticidade, agilidade e segurança no momento de estacionar seus veículos.
+
+- Administradores: responsáveis pela gestão dos estacionamentos, interessados em um sistema moderno e eficiente para aprimorar a organização, o controle de entrada e saída de veículos, a supervisão do uso das vagas e o aumento da segurança no local.
 
 ***1.3. Descrição dos usuários***
 
