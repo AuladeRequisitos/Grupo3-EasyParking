@@ -165,21 +165,21 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 | Identificador | Descrição | Prioridade | Depende de |
 |---------------|-----------|------------|------------|
-| RF01 | O sistema deve permitir o cadastro de usuários com dados pessoais. | Alta | — |
-| RF02 | O sistema deve permitir o registro de veículos (marca, modelo, tipo, placa e cor). | Alta | RF01 |
-| RF03 | O sistema deve gerar um código de identificação único para cada usuário. | Alta | RF01 |
-| RF04 | O sistema deve permitir a consulta em tempo real das vagas disponíveis. | Alta | RF01 |
-| RF05 | O sistema deve permitir a reserva de uma vaga específica. | Alta | RF04 |
-| RF06 | O sistema deve permitir o controle de entrada por meio do código de identificação. | Alta | RF03, RF05 |
-| RF07 | O sistema deve permitir o controle de saída utilizando o código de identificação e senha. | Alta  | RF06 |
-| RF08 | O sistema deve exibir o tempo de permanência do veículo na vaga. | Média | RF06 |
-| RF09 | O sistema deve calcular o valor da estadia com base no tempo registrado. | Alta | RF08 |
-| RF10 | O sistema deve alertar o porteiro se um veículo não autorizado ocupar uma vaga. | Média | RF06, RF05 |
-| RF11 | O sistema deve permitir que o usuário visualize imagens ao vivo da vaga onde seu veículo está estacionado. | Alta | RF06 |
-| RF12 | O sistema deve registrar a entrada e saída com data, hora e imagem capturada pela câmera. | Média | RF06 |
-| RF13 | O sistema deve permitir o envio de notificações em tempo real para o usuário (ex: entrada, saída, tempo restante). | Média | RF06, RF08 |
-| RF14 | O sistema deve gerar relatórios mensais de uso para os administradores. | Média | RF01, RF06 |
-| RF15 | O sistema deve permitir a recuperação de senha por e-mail cadastrado. | Alta | RF01 |
+| RF01 | O sistema deve permitir o cadastro de usuários com dados pessoais. | M | — |
+| RF02 | O sistema deve permitir o registro de veículos (marca, modelo, tipo, placa e cor). | M | RF01 |
+| RF03 | O sistema deve gerar um código de identificação único para cada usuário. | M | RF01 |
+| RF04 | O sistema deve permitir a consulta em tempo real das vagas disponíveis. | S | RF01 |
+| RF05 | O sistema deve permitir a reserva de uma vaga específica. | M | RF04 |
+| RF06 | O sistema deve permitir o controle de entrada por meio do código de identificação. | M | RF03, RF05 |
+| RF07 | O sistema deve permitir o controle de saída utilizando o código de identificação e senha. | M  | RF06 |
+| RF08 | O sistema deve exibir o tempo de permanência do veículo na vaga. | S | RF06 |
+| RF09 | O sistema deve calcular o valor da estadia com base no tempo registrado. | M | RF08 |
+| RF10 | O sistema deve alertar o porteiro se um veículo não autorizado ocupar uma vaga. | S | RF06, RF05 |
+| RF11 | O sistema deve permitir que o usuário visualize imagens ao vivo da vaga onde seu veículo está estacionado. | C | RF06 |
+| RF12 | O sistema deve registrar a entrada e saída com data, hora e imagem capturada pela câmera. | C | RF06 |
+| RF13 | O sistema deve permitir o envio de notificações em tempo real para o usuário (ex: entrada, saída, tempo restante). | S | RF06, RF08 |
+| RF14 | O sistema deve gerar relatórios mensais de uso para os administradores. | C | RF01, RF06 |
+| RF15 | O sistema deve permitir a recuperação de senha por e-mail cadastrado. | M | RF01 |
 
 ***2.2. Requisitos Não Funcionais***
 
