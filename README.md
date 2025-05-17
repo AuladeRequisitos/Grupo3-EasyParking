@@ -187,21 +187,21 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 | Identificador | Descrição | Prioridade | Depende de |
 |---------------|-----------|------------|------------|
-| RNF01 | O sistema deve estar disponível 99,5% do tempo. | Alta | — |
-| RNF02 | O sistema deve utilizar HTTPS para criptografar todos os dados. | Alta | — |
-| RNF03 | As respostas do sistema devem ser retornadas em até 2 segundos. | Média | RF04, RF05 |
-| RNF04 | O sistema deve ser compatível com navegadores modernos e dispositivos móveis | Alta | — |
-| RNF05 | O sistema deve suportar até 500 usuários simultâneos.| Alta | RF01, RF09 |
-| RNF06 | A interface deve seguir padrões de acessibilidade (WCAG 2.1). | Média | — |
-| RNF07 | O sistema deve enviar confirmações de ações (reserva, entrada, saída) em até 5 segundos | Alta | RF05, RF06, RF07 |
-| RNF08 | O backup do banco de dados deve ser feito automaticamente a cada 24 horas. | Média | — |
-| RNF09 | O banco de dados deve ter replicação geográfica na nuvem.| Alta | RF01, RF02 |
-| RNF10 | A autenticação deve utilizar senhas criptografadas e políticas de segurança. | Alta | RF07 |
-| RNF11 | O sistema deve suportar transmissão de vídeo ao vivo com latência inferior a 3 segundos. | Alta | RF11 |
-| RNF12 | O tempo de carregamento inicial da aplicação não deve ultrapassar 3 segundos em conexões 4G. | Alta | — |
-| RNF13 | O sistema deve exibir mensagens de erro claras e responsivas em caso de falha de conexão ou ações inválidas. | Média | — |
-| RNF14 | 	O sistema deve ser capaz de restaurar o serviço automaticamente em até 1 minuto após falhas críticas. | Alta | 	RNF01 |
-| RNF15 | As imagens capturadas pelas câmeras devem ser armazenadas por no mínimo 7 dias em ambiente seguro. | Alta | RF12 |
+| RNF01 | O sistema deve estar disponível 99,5% do tempo. | M | — |
+| RNF02 | O sistema deve utilizar HTTPS para criptografar todos os dados. | M | — |
+| RNF03 | As respostas do sistema devem ser retornadas em até 2 segundos. | S | RF04, RF05 |
+| RNF04 | O sistema deve ser compatível com navegadores modernos e dispositivos móveis | M | — |
+| RNF05 | O sistema deve suportar até 500 usuários simultâneos.| M | RF01, RF09 |
+| RNF06 | A interface deve seguir padrões de acessibilidade (WCAG 2.1). | S | — |
+| RNF07 | O sistema deve enviar confirmações de ações (reserva, entrada, saída) em até 5 segundos | M | RF05, RF06, RF07 |
+| RNF08 | O backup do banco de dados deve ser feito automaticamente a cada 24 horas. | M | — |
+| RNF09 | O banco de dados deve ter replicação geográfica na nuvem.| M | RF01, RF02 |
+| RNF10 | A autenticação deve utilizar senhas criptografadas e políticas de segurança. | M | RF07 |
+| RNF11 | O sistema deve suportar transmissão de vídeo ao vivo com latência inferior a 3 segundos. | S | RF11 |
+| RNF12 | O tempo de carregamento inicial da aplicação não deve ultrapassar 3 segundos em conexões 4G. | S | — |
+| RNF13 | O sistema deve exibir mensagens de erro claras e responsivas em caso de falha de conexão ou ações inválidas. | M | — |
+| RNF14 | 	O sistema deve ser capaz de restaurar o serviço automaticamente em até 1 minuto após falhas críticas. | M | 	RNF01 |
+| RNF15 | As imagens capturadas pelas câmeras devem ser armazenadas por no mínimo 7 dias em ambiente seguro. | S | RF12 |
 
 ***2.3. Perguntas***
 
