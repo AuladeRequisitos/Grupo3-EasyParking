@@ -169,7 +169,7 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 | RF02 | O sistema deve permitir o registro de veículos (marca, modelo, tipo, placa e cor). | M | RF01 |
 | RF03 | O sistema deve gerar um código de identificação único para cada usuário. | M | RF01 |
 | RF04 | O sistema deve permitir a consulta em tempo real das vagas disponíveis. | S | RF01 |
-| RF05 | O sistema deve permitir a reserva de uma vaga específica. | M | RF04 |
+| RF05 | O sistema deve permitir a reserva e o cancelamento de uma vaga específica. | M | RF04 |
 | RF06 | O sistema deve permitir o controle de entrada por meio do código de identificação. | M | RF03, RF05 |
 | RF07 | O sistema deve permitir o controle de saída utilizando o código de identificação e senha. | M  | RF06 |
 | RF08 | O sistema deve exibir o tempo de permanência do veículo na vaga. | S | RF06 |
