@@ -174,11 +174,11 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 | RF07 | O sistema deve permitir o controle de saída utilizando o código de identificação e senha. | M  | RF06 |
 | RF08 | O sistema deve exibir o tempo de permanência do veículo na vaga. | S | RF06 |
 | RF09 | O sistema deve calcular o valor da estadia com base no tempo registrado. | M | RF08 |
-| RF10 | O sistema deve alertar o porteiro se um veículo não autorizado ocupar uma vaga. | S | RF06, RF05 |
+| RF10 | O sistema deve alertar o porteiro se um veículo não autorizado ocupar uma vaga. A identificação é feita via imagem de câmera | S | RF06, RF05 |
 | RF11 | O sistema deve permitir que o usuário visualize imagens ao vivo da vaga onde seu veículo está estacionado. | C | RF06 |
 | RF12 | O sistema deve registrar a entrada e saída com data, hora e imagem capturada pela câmera. | C | RF06 |
 | RF13 | O sistema deve permitir o envio de notificações em tempo real para o usuário (ex: entrada, saída, tempo restante). | S | RF06, RF08 |
-| RF14 | O sistema deve gerar relatórios mensais de uso para os administradores. | C | RF01, RF06 |
+| RF14 | O sistema deve gerar relatórios mensais (faturamento, horários de maior ou menor movimentação, etc) de uso para os administradores. | C | RF01, RF06 |
 | RF15 | O sistema deve permitir a recuperação de senha por e-mail cadastrado. | M | RF01 |
 
 ***2.2. Requisitos Não Funcionais***
