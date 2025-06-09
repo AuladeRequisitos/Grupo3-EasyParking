@@ -216,9 +216,28 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
-***2.5. Histórias do Usuário***
+***2.5. Histórias do Usuário***  
 
-*<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+
+| ID   | Como...         | Quero...                                                                 | Para...                                                                                       |
+|------|------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| RF1  | Cliente           | Fazer o meu cadastro                                                    | Ter acesso aos benefícios do sistema                                                         |
+| RF2  | Cliente           | Registrar os dados do meu veículo                                       | Poder utilizá-lo em uma vaga                                                                 |
+| RF3  | Administrador     | Que cada usuário receba um código único após o cadastro                 | Conseguir identificá-lo com segurança                                                        |
+| RF4  | Cliente           | Consultar as vagas disponíveis em tempo real                            | Decidir qual vaga irei escolher                                                              |
+| RF5  | Cliente           | Reservar ou cancelar uma vaga específica                                | Garantir a minha vaga no estacionamento quando eu chegar                                     |
+| RF6  | Cliente           | Entrar no estacionamento usando o código de identificação               | Entrar sem necessidade de novo registro                                                      |
+| RF7  | Administrador     | Validar a saída do veículo com código e senha                           | Garantir que apenas usuários autorizados saiam com segurança                                 |
+| RF8  | Cliente           | Visualizar o tempo de permanência do meu veículo                        | Acompanhar por quanto tempo estou estacionado                                                |
+| RF9  | Cliente           | Que o sistema calcule o valor da estadia com base no tempo              | Saber quanto devo pagar ao sair                                                              |
+| RF10 | Porteiro          | Ser alertado se um veículo não autorizado ocupar uma vaga               | Impedir acessos indevidos, com base em imagem da câmera                                      |
+| RF11 | Motorista         | Visualizar imagens ao vivo da vaga onde meu carro está                 | Acompanhar com segurança meu veículo                                                         |
+| RF12 | Administrador     | Visualizar os registros de entrada e saída com data e hora              | Ter controle e histórico de acesso                                                           |
+| RF13 | Motorista         | Receber notificações em tempo real do sistema                           | Estar sempre informado sobre minha reserva                                                   |
+| RF14 | Administrador     | Ter um relatório mensal com dados importantes gerados pelo sistema      | Ter maior controle e embasamento para tomada de decisão                                      |
+| RF15 | Cliente           | Recuperar a minha senha por e-mail cadastrado                           | Recuperar meu acesso ao aplicativo                                                           |
+
+
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
