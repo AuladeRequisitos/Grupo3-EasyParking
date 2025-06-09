@@ -233,8 +233,11 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 *<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
 
 ***2.9. Protótipos***
-
-*<Imagem, arquivo (PDF), link com Protótipo.>*
+![Page%201](https://github.com/user-attachments/assets/84def1b9-4bf2-42d1-93d0-8985571350b5)
+![Page%205](https://github.com/user-attachments/assets/19be63b4-7c61-45f8-95f2-a8ec0bf59a6b)
+![Page%202](https://github.com/user-attachments/assets/f22aa0e8-e596-4ecc-a06c-7b85f067b1c5)
+![Page%203](https://github.com/user-attachments/assets/ddad2d09-88fb-4228-8277-24c17b120f29)
+![Page%204](https://github.com/user-attachments/assets/1cbea8fb-4597-400f-a185-2a94d8972133)
 
 ## Referências
 
