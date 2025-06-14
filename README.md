@@ -214,7 +214,7 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 ***2.4. Entrevista***
 
-*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
+[*<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*](https://drive.google.com/drive/u/2/folders/1pkxXW-gb3viXdgHVU9AUhvtvFzqNlD26)
 
 ***2.5. Histórias do Usuário***  
 
@@ -241,11 +241,12 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Caso de Uso.>*
+![Diagrama de caso de uso - Diagrama de caso de uso](https://github.com/user-attachments/assets/f8fc5ace-5c21-4eef-bffa-ac34edbb222a)
+
 
 ***2.7. Diagramas de Atividades***
 
-*<Imagem, arquivo (PDF), link com Diagrama de Atividades.>*
+![diagrama de atividade](https://github.com/user-attachments/assets/c1bf113a-4c1c-4cbe-b6ef-5bdedd5f26ea)
 
 ***2.8. Matrizes de Rastreabilidade***
 
@@ -263,3 +264,6 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 *<Esta seção é destinada à descrição das referências utilizadas pelo documento, como por exemplo, URLs e livros. Ver exemplo a seguir:>*
 
 [1] “Glossário da _USina_”, <_id_doc glossário_>, Versão <_versão_>. Localização: <_localização_>.
+
+
+
