@@ -241,7 +241,10 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
-![Diagrama de caso de uso - Diagrama de caso de uso](https://github.com/user-attachments/assets/f8fc5ace-5c21-4eef-bffa-ac34edbb222a)
+![Diagrama de caso de uso - Diagrama de caso de uso](https://github.com/user-attachments/assets/f8fc5ace-5c21-4eef-bffa-ac34edbb222a)  
+![PG2](https://github.com/user-attachments/assets/f4a43eb1-58a7-4287-9243-d7f8b4f923f0)  
+![PG3](https://github.com/user-attachments/assets/12b16b1f-599a-4ab3-b840-d964155957cd)  
+
 
 
 ***2.7. Diagramas de Atividades***
