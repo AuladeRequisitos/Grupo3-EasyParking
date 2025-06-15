@@ -250,7 +250,47 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 ***2.8. Matrizes de Rastreabilidade***
 
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
+- Requisitos Funcionais:
+
+| Requisito | Cadastro | Consulta | Reserva | Entrada/Saída | Notificações | Imagem/Vídeo | Relatórios |
+| --------- | -------- | -------- | ------- | ------------- | ------------ | ------------ | ---------- |
+| RF01      | 1        | 0        | 0       | 0             | 0            | 0            | 1          |
+| RF02      | 1        | 0        | 0       | 0             | 0            | 0            | 0          |
+| RF03      | 1        | 0        | 0       | 1             | 0            | 0            | 0          |
+| RF04      | 0        | 1        | 0       | 0             | 0            | 0            | 0          |
+| RF05      | 0        | 1        | 1       | 1             | 0            | 0            | 0          |
+| RF06      | 0        | 0        | 1       | 1             | 0            | 0            | 1          |
+| RF07      | 0        | 0        | 0       | 1             | 0            | 0            | 0          |
+| RF08      | 0        | 0        | 0       | 1             | 0            | 0            | 0          |
+| RF09      | 0        | 0        | 0       | 0             | 0            | 0            | 1          |
+| RF10      | 0        | 0        | 1       | 1             | 0            | 1            | 0          |
+| RF11      | 0        | 0        | 0       | 0             | 0            | 1            | 0          |
+| RF12      | 0        | 0        | 0       | 1             | 0            | 1            | 0          |
+| RF13      | 0        | 0        | 0       | 1             | 1            | 0            | 0          |
+| RF14      | 1        | 0        | 0       | 1             | 0            | 0            | 1          |
+| RF15      | 1        | 0        | 0       | 0             | 0            | 0            | 0          |
+
+- Requisitos Não Funcionais
+  
+| Requisito | Acessibilidade | Segurança | Performance | Escalabilidade | Backup | Vídeo/Imagem | Confiabilidade |
+| --------- | -------------- | --------- | ----------- | -------------- | ------ | ------------ | -------------- |
+| RNF01     | 0              | 0         | 1           | 1              | 0      | 0            | 1              |
+| RNF02     | 0              | 1         | 0           | 0              | 0      | 0            | 0              |
+| RNF03     | 0              | 0         | 1           | 0              | 0      | 0            | 0              |
+| RNF04     | 1              | 0         | 1           | 0              | 0      | 0            | 0              |
+| RNF05     | 0              | 0         | 1           | 1              | 0      | 0            | 0              |
+| RNF06     | 1              | 0         | 0           | 0              | 0      | 0            | 0              |
+| RNF07     | 0              | 0         | 1           | 0              | 0      | 0            | 0              |
+| RNF08     | 0              | 0         | 0           | 0              | 1      | 0            | 1              |
+| RNF09     | 0              | 0         | 0           | 1              | 1      | 0            | 0              |
+| RNF10     | 0              | 1         | 0           | 0              | 0      | 0            | 0              |
+| RNF11     | 0              | 0         | 0           | 0              | 0      | 1            | 0              |
+| RNF12     | 1              | 0         | 1           | 0              | 0      | 0            | 0              |
+| RNF13     | 1              | 0         | 0           | 0              | 0      | 0            | 0              |
+| RNF14     | 0              | 0         | 0           | 0              | 0      | 0            | 1              |
+| RNF15     | 0              | 1         | 0           | 0              | 0      | 1            | 0              |
+
+
 
 ***2.9. Protótipos***
 ![Page%201](https://github.com/user-attachments/assets/84def1b9-4bf2-42d1-93d0-8985571350b5)
