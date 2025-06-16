@@ -241,6 +241,22 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
+## Especificação do Caso de Uso: Reservar Vaga
+
+| **Campo**                | **Descrição** |
+|--------------------------|---------------|
+| **ID**                   | 004 |
+| **Nome do Caso de Uso**  | Reservar Vaga |
+| **Atores**               | Cliente |
+| **Visão Geral**          | Este caso de uso descreve como um cliente pode reservar uma vaga de estacionamento pelo sistema. |
+| **Cenário de Sucesso Principal** | - O cliente acessa o sistema com suas credenciais.<br> - O cliente seleciona a funcionalidade "Reservar Vaga" no menu principal.<br> - O sistema exibe um mapa com as vagas disponíveis e seus horários.<br> - O cliente seleciona uma vaga específica e o período desejado.<br> - O sistema verifica a disponibilidade da vaga para o período informado.<br> - O cliente confirma a reserva.<br> - O sistema registra a reserva, gera um comprovante e exibe uma mensagem de sucesso.<br> - O caso de uso termina. |
+| **Extensões** | **E.1** – No Passo 5, a vaga já foi reservada por outro cliente:<br> - E.1.1 – O sistema exibe uma mensagem informando que a vaga não está mais disponível.<br> - E.1.2 – O sistema solicita ao cliente que selecione uma nova vaga.<br> - E.1.3 – Volta ao Passo 4.<br><br> **E.2** – No Passo 1, o cliente não possui cadastro no sistema:<br> - E.2.1 – O sistema redireciona o usuário para a tela de cadastro.<br> - E.2.2 – Após o cadastro, volta ao Passo 2.<br><br> **E.3** – No Passo 7, ocorre uma falha no banco de dados:<br> - E.3.1 – O sistema exibe mensagem de erro e não realiza a reserva.<br> - E.3.2 – O cliente pode tentar novamente mais tarde.<br> - E.3.3 – O caso de uso termina com erro. |
+
+
+
+
+
+
 ![Diagrama de caso de uso - Diagrama de caso de uso](https://github.com/user-attachments/assets/f8fc5ace-5c21-4eef-bffa-ac34edbb222a)  
 ![PG2](https://github.com/user-attachments/assets/f4a43eb1-58a7-4287-9243-d7f8b4f923f0)  
 ![PG3](https://github.com/user-attachments/assets/12b16b1f-599a-4ab3-b840-d964155957cd)  
