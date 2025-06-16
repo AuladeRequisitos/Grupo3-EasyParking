@@ -265,7 +265,8 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 
 ***2.7. Diagramas de Atividades***
 
-![diagrama de atividade](https://github.com/user-attachments/assets/c1bf113a-4c1c-4cbe-b6ef-5bdedd5f26ea)
+
+![diagramaAtividade](https://github.com/user-attachments/assets/bd6c09f3-84e5-4dfc-bc18-a8a42b9b0dda)
 
 ***2.8. Matrizes de Rastreabilidade***
 
@@ -289,7 +290,8 @@ Com o sistema mais eficiente, Diego consegue diminuir os custos operacionais, au
 | RF14      | 1        | 0        | 0       | 1             | 0            | 0            | 1          |
 | RF15      | 1        | 0        | 0       | 0             | 0            | 0            | 0          |
 
-- Requisitos Não Funcionais
+- Requisitos Não Funcionais:
+
   
 | Requisito | Acessibilidade | Segurança | Performance | Escalabilidade | Backup | Vídeo/Imagem | Confiabilidade |
 | --------- | -------------- | --------- | ----------- | -------------- | ------ | ------------ | -------------- |
